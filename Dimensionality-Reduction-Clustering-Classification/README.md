@@ -12,7 +12,7 @@ Three algorithms implemented from scratch on the sklearn digits dataset (1797 im
 
 ## Results
 
-- k-means clustering accuracy (post label-alignment): 58.4%
+- k-means clustering accuracy (post label-alignment): ~58% (varies slightly run to run due to random centroid initialization)
 - Softmax classifier: 100% train accuracy, 97.2% test accuracy
 
 ## Tools

@@ -1,6 +1,6 @@
 # Chapter 1: Linear Regression
 
-Implements linear regression from scratch using the closed-form normal equations (`(XᵀX)⁻¹XᵀY`), no `sklearn` for the core solver. Built around a synthetic housing-price dataset, then extended to a text classification task to probe where linear regression breaks down.
+Implements linear regression from scratch using the closed-form normal equations (`(XᵀX)⁻¹XᵀY`), no `sklearn` for the core solver. Built around a synthetic housing-price dataset, then extended to a text classification task.
 
 ## What's here
 
